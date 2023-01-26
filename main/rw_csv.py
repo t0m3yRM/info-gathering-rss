@@ -1,4 +1,3 @@
-#!/bin/env python
 
 import feedparser
 import re
