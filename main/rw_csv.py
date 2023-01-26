@@ -1,6 +1,4 @@
-
 import feedparser
-import re
 import csv
 import os
 
